@@ -1,5 +1,5 @@
 ---
-title: "AIE Outreach Presentation"
+title: "Outreach"
 listing:
   contents: posts
   sort: "date desc"
