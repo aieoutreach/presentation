@@ -1,0 +1,8 @@
+/* css styles */
+
+/* Reveal.js link color overrides */
+.reveal a {
+    --r-link-color: #9b631e;
+    --r-link-color-dark: #4e3210;
+    --r-link-color-hover: #32afcd;
+}

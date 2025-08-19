@@ -1,17 +1,483 @@
 ---
-title: "Habits"
-author: "John Doe"
+title: "Developer Marketing Community Management"
+subtitle: "A Growth Strategy for AI Engineer Events"
 format:
-    revealjs:
-        theme: beige
+  revealjs:
+    theme: serif
+    slide-number: true
+    progress: true
+    center-title-slide: true
+    incremental: false
+    css: styles.css
 ---
 
-## Getting up
+## Why Me, Why Now? {.smaller}
 
-- Turn off alarm
-- Get out of bed
+::: {.fragment}
+### Strengths
+- I am the target audience - I understand engineers because **I am one**
+- [Two years of authentic community engagement](https://x.com/YoungPhlo_/status/1829834800636608573){target="_blank"}, no corporate marketing experience
+- Ready to go all in with genuine passion and strategic thinking
+:::
 
-## Going to sleep
 
-- Get in bed
-- Count sheep
+::: {.fragment}
+### Perfect Timing Meets Preparation
+- School year just started, new routine is forming
+- To prepare for this position, I conducted a [**45 minute deep dive audit**](https://www.youtube.com/watch?v=h6akcO-7py0){target="_blank"} of AIE's digital presence
+- **This deck is the result** of that proactive analysis
+:::
+
+::: {.notes}
+I have been actively participating in this space for 2 years now.
+
+I am going to frame "no previous corporate marketing experience" as a strength here. Perhaps I have not been jaded by corporate processes and can bring a fresh perspective. Also means I am not going to shy away from the grunt work of marketing.
+
+It's hard to gain the perspective that I have if you have not been in and around the AI engineer space for the last few years.
+
+To prepare for this position, I conducted a 45 minute audit of all of the online properties for AI Engineer Events, and these slides are what happened as a result. These slides are my notes as a result.
+:::
+
+
+## Marketing Background {.smaller}
+
+::: {.fragment}
+### Paid Media
+- Search campaigns: Google Ads, Yahoo (when it mattered!)
+- Social advertising: Facebook, YouTube ad campaigns  
+- Performance tracking: ROI analysis and campaign optimization
+:::
+
+::: {.fragment}
+### Email Marketing
+- Managed ecommerce email campaigns for massive lists of 750,000+ subscribers in 2015
+:::
+
+::: {.notes}
+While I have no corporate marketing experience, I have been doing paid media and email marketing for a very long time.
+
+I first started doing paid media in 2009, and managed email campaigns for two years starting in 2015.
+:::
+
+
+## Why AIE? {.smaller}
+
+It is an event that has changed my life
+
+::: {.fragment}
+### Break The Pattern
+- An AIE pattern we need to break
+- Hiring me comes with perks
+- More on this later...
+:::
+
+::: {.fragment}
+### Master Builder
+- This is something [I aspire to for AI tools](https://dx.tips/master-builder){target="_blank"} but the same ideas can apply here
+- MB is someone who is a proponent of the event and can demonstrate what comes with attending
+- Showcasing what is possible through in person experiences at a Summit or World's Fair
+:::
+
+::: {.notes}
+I could come up with a long list of reasons why I want to work with the team that organizes AIE but this is the simplest one.
+
+At the end of my presentation I will get into more detail about this pattern.
+
+Swyx recently wrote a post on the `Master Builder` which is something I aspire to for a few tools but think the same ideas can apply here: somone who is a proponent of the event and can demonstrate whats possible. I have already expierienced the events ability to bring the smartest minds together and don't need to be sold on the value of in person experiences.
+
+I personally already experienced the event's ability to bring the smartest minds together, and I don't need to be sold on the value of in-person experiences. So I think me being a master builder for AIE is a real thing.
+:::
+
+
+## How? {.smaller}
+
+::: {.fragment}
+### Beat The Curve
+![](media/curve.png)
+
+:::
+
+::: {.notes}
+I am here to beat the curve!
+
+If you haven't seen this before, can you guess what this curve represents?
+I'll give you the answer later in the slides.
+
+This is how I think I can contribute to software 3.0.
+:::
+
+
+## Understanding the Mission {.smaller}
+
+::: {.fragment}
+### **The Vision: "SXSW of AI"**
+- Grow the industry's only **vendor neutral** event
+- 400% attendance growth over two years
+- Not just an event: a **community** and trusted resource
+:::
+
+::: {.fragment}
+### **The Strategic Solution: B2D Marketing**
+B2D isn't selling *to* developers, it's **empowering developers to sell their bosses**
+
+Create content that helps engineers make the business case:
+
+- `5 Ways AIE Paris Will Level Up Your Team`
+- `How to Convince Your Boss This Event is Worth the Investment`
+- Post conference summary templates attendees can share
+:::
+
+::: {.notes}
+This slide is to show you that I understand the stated mission and that I have the ability to come up with strategic solutions.
+
+Fun fact: I released a love song about my car and then totaled it at SXSW in 2017. True story.
+:::
+
+
+## Community Audit: Website {.smaller}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+### What's Working
+
+- **"Talk to AIE" voice agent** Brilliant use of AI that impressed me as an attendee
+- **Schedule evolution** Went from rough early iterations to polished, professional layout
+- **Side events page** Great resource for discovering auxiliary events and networking opportunities
+:::
+
+::: {.column width="50%"}
+### The Opportunity
+
+- **Slack** and **LinkedIn** communities aren't linked on the official site
+- Attendees have to *hunt* for the community spaces instead of seamlessly flowing from event discovery to community engagement
+:::
+
+::::
+
+::: {.fragment}
+### My Recommendation
+**Quick Win:** Add prominent community hub links in main navigation
+
+- Direct Slack workspace link
+- LinkedIn company page integration  
+:::
+
+::: {.notes}
+Really loved the talk to AIE agent. From what I understand the team over at Daily helped put that together. I believe Sponsors like that will be so easy to highlight because they do interesting things engineers want to hear about anyways.
+:::
+
+
+## Community Audit: Twitter {.smaller}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+### What's Working
+- Quality content from events gets engagement when people see it
+- Strong follower base that's genuinely interested in AI engineering
+:::
+
+::: {.column width="50%"}
+### The Opportunity
+- Posting YouTube links instead of native video is **killing reach**
+- ~2,000 posts over 2 years feels light for platform engagement
+- Content feels corporate and goes quiet between events
+:::
+
+::::
+
+::: {.fragment}
+### My Approach
+- Export Twitter archives and analyze what historically performs best
+- Transform high performing talk content into native video with captions
+- 60 second vertical clips from existing talks
+- Quote cards with key insights
+:::
+
+::: {.notes}
+Community Engagement: Move beyond broadcasting to actual conversations.
+
+This is a quantifiable opportunity. Great content exists, it just needs platform native distribution.
+:::
+
+
+## Community Audit: LinkedIn {.smaller}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+### What's Working
+- Large following, significant reach potential
+- Professional platform alignment with B2D audience  
+- Quality event coverage when posted
+:::
+
+::: {.column width="50%"}
+### The Opportunity
+- Only 3 original posts about AIEWF 2025
+- Not helping engineers convince their boss
+- The 'People' section of the company page has unauthorized associations
+:::
+
+::::
+
+::: {.fragment}
+### My Approach
+- Create a list of personas to write content for.
+- Post 3 original posts per week for 90 days, then optimize based on data
+:::
+
+::: {.notes}
+LinkedIn requires different messaging than Twitter. The audience here needs ammunition to win internal battles for professional development budget.
+
+Talk to attendees and create avatars based on their needs, their experiences.
+
+This platform is the most ripe for experimentation. No priors means we get to post until we find what works.
+:::
+
+
+## Community Audit: Slack {.smaller}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+### What's Working
+- Explosive activity during events - real networking happens
+- `#hiring` channel provides ongoing value for job seekers
+- Strong professional community when engaged
+:::
+
+::: {.column width="50%"}
+### The Opportunity
+- Dormant between events
+- `#random` is the most active channel 2 months after the event, not `#general`
+- Channels from 2023 need archiving
+:::
+
+::::
+
+::: {.fragment}
+### My Approach
+**Office Hours:** Biweekly community calls to maintain momentum
+
+- Focus energy on `#tool-talk`, `#hiring`
+- Archive dormant channels to reduce noise
+- Active moderation to prevent spam, steer valuable conversations
+:::
+
+::: {.notes}
+Slack serves a different professional audience than Discord. Less bleeding edge paper discussions, more career and practical implementation focus.
+
+The key insight: people are there but need structured reasons to engage between events.
+:::
+
+
+## Community Audit: YouTube {.smaller}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+### What's Working
+- High quality talk recordings are the crown jewel
+- Strong subscriber base with genuine engagement
+- Hundreds of thousands of views on existing content prove audience demand
+:::
+
+::: {.column width="50%"}
+### The Opportunity
+- 7 Shorts posted July 9th through 20th, then nothing
+- Each existing Short gets thousands of views
+- Huge library of long form content not being repurposed
+:::
+
+::::
+
+::: {.fragment}
+### My Approach
+
+**Shorts Strategy:** 3 clips per week from existing talks
+
+- 60 second knowledge bombs with captions
+- Quote cards featuring key speaker insights
+- Behind the scenes event content
+:::
+
+::: {.notes}
+This is the lowest hanging fruit with the highest ROI. The content already exists and performs well - it just needs consistent, strategic distribution.
+
+YouTube algorithm rewards short form content in a different way than long form.
+:::
+
+
+## My 90 Day Strategic Plan {.smaller}
+
+::: {.panel-tabset}
+
+### Days 0 to 30
+
+**Deep Dive Analytics**
+
+- Export Twitter archives and analyze historical performance patterns
+- Audit email campaigns to understand brand voice and messaging evolution
+- Review past community feedback and engagement metrics across all platforms
+
+**Team Integration**
+
+- Hold 1 on 1s with each team member to understand goals and expectations
+- Define what "community ambassador" means in practice versus theory
+- Establish baseline metrics for community health and business impact
+
+**Community Research**
+
+- Survey recent attendees about their community engagement preferences
+- Map current journey from event discovery to ticket purchase to post event
+
+### Days 31 to 60
+
+1. **YouTube Shorts Blitz**
+   - Post 3 clips per week from existing talk content
+   - A/B test different formats: quote cards vs. speaker clips vs. behind the scenes
+   - Track engagement rates and click through rates to full videos
+
+2. **LinkedIn B2D Content Series**
+   - 2 posts per week targeting the "convince your boss" angle
+   - Create downloadable ROI templates engineers can use internally
+   - Test different personas: startup engineer vs. enterprise vs. freelancer
+
+3. **Slack Community Office Hours**
+   - Host biweekly virtual meetups in `#general`
+   - Gauge interest for expanding to specialized topic sessions
+
+### Days 61 to 90
+
+**Data Informed Optimization**
+
+- Comprehensive performance analysis of all three pilots
+- Identify top performing content types and optimal posting schedules
+- Survey pilot participants for qualitative feedback and suggestions
+
+**Strategic Scaling**
+
+- Present findings and **data informed full year community content calendar**
+- Begin planning integrated campaign for next major event
+- Establish automated content creation workflows for sustainable growth
+- Document best practices and playbooks for community engagement
+- Set up analytics dashboards for ongoing performance monitoring
+
+:::
+
+::: {.notes}
+I wanted to put together a strategic plan for the first 90 days of my role as the developer marketing and community manager.
+
+This is not a plan that I'm expecting to carry out, but just some ideas around what could be possible in the first 90 days. I realize that the team could have different plans for that role, so I'm not emotionally attached to that.
+:::
+
+
+## Authentic Ambassadorship
+
+My approach is to be a genuine, trusted member of the community first. Representation must be authentic to be effective. It's about fostering real conversations, not just broadcasting a brand message.
+
+::: {.notes}
+Strong belief: You do not change who you are, you align with a brand that shares your values. I genuinely believe AIE brings the smartest minds together.
+:::
+
+
+## Success Metrics {.smaller}
+
+While engagement metrics are important, the ultimate goal is business impact.
+
+::: {.incremental}
+1. **Velocity of Ticket Sales:** Are we increasing the rate of early bird and standard ticket purchases?
+2. **Community Attributed Leads:** How many attendees cite community touchpoints as a reason for attending?
+3. **Year Round Audience Growth:** Are our core channels growing consistently between events?
+:::
+
+::: {.fragment}
+Personal success is to build solutions, automations (for this position) using the technology I am obsessed with so I can present new findings and productive tips to the new class of engineers.
+:::
+
+::: {.notes}
+I'm curious what other success metrics you have in mind for this position.
+
+Personally, I think success is building solutions and automations for this position using the technology that I build with every day so I can present findings and productive tips to a new class of engineers.
+:::
+
+
+## The Patterns I've Recognized {.smaller}
+
+::: {.fragment}
+### Phlo Pattern
+- For 2 years, I've attended AIE events as a passionate engineer
+- But instead of acting on ideas and building relationships from each event I am busy with client work or side jobs
+- Between events, I spend the bulk of my time making ends meet financially to afford the next trip
+- **This position breaks that cycle - letting me focus on the AI space I am obsessed with**
+:::
+
+::: {.fragment}
+### AIE Pattern
+- An amazing event happens, content is dripped out
+- The part of the community that is not plugged into Latent Space fizzles out
+- **This position breaks that cycle - letting me foster that community**
+:::
+
+::: {.notes}
+I mentioned this earlier in the slides, and there's actually two patterns that I want to talk about.
+
+For me personally, the Phlo pattern is that for two years I've attended AI engineering events but instead of acting on the ideas and building the relationships from each event, I end up busy with client work or side jobs. So this position breaks that cycle, letting me focus on the AI space that I'm already obsessed with.
+
+And then there's also an AIE pattern where an amazing event happens... The part of the community that is not exactly plugged into the Latent Space ecosystem, that part of the community fizzles out. This position also breaks that cycle in letting me foster that community.
+:::
+
+
+## The Curve {.smaller}
+This is coined the ["Gini coefficient of AIE Organizer Stress"](https://www.youtube.com/watch?v=IHkyFhU6JEY&t=47s&ab_channel=AIEngineer){target="_blank"} by Swyx on stage.
+![](media/aie-organizer-stress.png)
+
+::: {.notes}
+This is the graph I showed earlier.
+
+This is coined the "Gini coefficient of AI engineer organizer stress" by Swyx.
+:::
+
+
+## Hiring Me Comes With Perks {.smaller}
+
+::: {.fragment}
+### Have you heard of Christopher Smith?
+::: {.incremental}
+- I have great news
+    - He is my assistant. My personal liaison that speaks on my behalf when I need to interact with professional business contacts.
+- Even better news
+    - If I am employed, he is also employed by Software 3.0 and will assist business development at no additional cost to the organization.
+:::
+:::
+
+::: {.notes}
+Last but not least, I mentioned this earlier, hiring me comes with perks.
+
+Have you heard of Christopher Smith?
+
+Even if not, I have great news:
+
+He is my assistant, my personal liaison that speaks on my behalf when I need to interact with professional business contacts.
+
+And I have even better news about that: if I am employed, he is also employed by Software 3.0 and will assist biz dev at no additional cost to the organization.
+
+I just had to throw a bonus in there.
+:::
+
+
+## Thank You {.center}
+
+### Questions & Discussion
+
+::: {.fragment}
+*Ready to transform AIE's community engagement and drive measurable business results.*
+:::
+
+::: {.notes}
+This is my interpretation of the role but I am curious, what are the highest priority items on your list in my first 90 days? What about in the first year?
+
+Anyways, to wrap up this is me asking for the job. I want the role. Are you ready to hire me?
+:::
