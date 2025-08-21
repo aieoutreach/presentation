@@ -28,6 +28,10 @@ format:
 - **This deck is the result** of that proactive analysis
 :::
 
+::: {.aside}
+Here's the [video version](https://www.youtube.com/watch?v=IMIJgePyOMs){target="_blank"} of this deck.
+:::
+
 ::: {.notes}
 I have been actively participating in this space for 2 years now.
 

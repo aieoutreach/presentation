@@ -11,6 +11,11 @@ website:
         href: https://github.com/
       - icon: twitter
         href: https://twitter.com
+  site-url: https://aieoutreach.github.io/presentation/
+  google-analytics: G-YZFTXBJG2M
+  twitter-card: true
+  open-graph: true
+
 format:
   html:
     theme: spacelab
